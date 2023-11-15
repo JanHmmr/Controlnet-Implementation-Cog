@@ -20,5 +20,5 @@ https://github.com/replicate/cog
 For any questions or help contact me on Github (https://github.com/JanHmmr or X/Twitter @CreatedByJann 
 This Project was build in together with https://github.com/usamaehsan.
 
-(Working on Mac/Linux. Cog doesnt support Windows yet)
+
 
